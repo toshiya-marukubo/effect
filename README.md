@@ -1,7 +1,9 @@
 ## effect
 This script is add some effect to canvas.
 ### How to use
+```
 import {Effect} from '...';
+```
 ### Based on ...
 These sites.
 - [https://mathworld.wolfram.com/](https://mathworld.wolfram.com/)
